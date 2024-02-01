@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/oryommundy/static/css/main.5ad5427e.css",
-    "main.js": "/oryommundy/static/js/main.1feb3bd7.js",
-    "static/media/aguia.jpg": "/oryommundy/static/media/aguia.ffd350d2763dedc6eeb2.jpg",
-    "static/media/img2.jpg": "/oryommundy/static/media/img2.aefaec1fa107d2a70551.jpg",
-    "static/media/ag.png": "/oryommundy/static/media/ag.1ad593ff5169d92f5025.png",
-    "static/media/Americanas.png": "/oryommundy/static/media/Americanas.1e49a9df3dffaed67b66.png",
-    "index.html": "/oryommundy/index.html",
-    "main.5ad5427e.css.map": "/oryommundy/static/css/main.5ad5427e.css.map",
-    "main.1feb3bd7.js.map": "/oryommundy/static/js/main.1feb3bd7.js.map"
+    "main.css": "/OryomMundy/static/css/main.5ad5427e.css",
+    "main.js": "/OryomMundy/static/js/main.e29a3e38.js",
+    "static/media/aguia.jpg": "/OryomMundy/static/media/aguia.ffd350d2763dedc6eeb2.jpg",
+    "static/media/img2.jpg": "/OryomMundy/static/media/img2.aefaec1fa107d2a70551.jpg",
+    "static/media/ag.png": "/OryomMundy/static/media/ag.1ad593ff5169d92f5025.png",
+    "static/media/Americanas.png": "/OryomMundy/static/media/Americanas.1e49a9df3dffaed67b66.png",
+    "index.html": "/OryomMundy/index.html",
+    "main.5ad5427e.css.map": "/OryomMundy/static/css/main.5ad5427e.css.map",
+    "main.e29a3e38.js.map": "/OryomMundy/static/js/main.e29a3e38.js.map"
   },
   "entrypoints": [
     "static/css/main.5ad5427e.css",
-    "static/js/main.1feb3bd7.js"
+    "static/js/main.e29a3e38.js"
   ]
 }
