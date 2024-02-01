@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: xx-large;
+}
+
+body {
+  position: relative;
+  display: flex;
+  width: 80%;
+  height: 98vh;
+  background-color: rgb(48, 48, 48);
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+}
